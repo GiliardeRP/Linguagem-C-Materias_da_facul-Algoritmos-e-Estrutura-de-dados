@@ -1,0 +1,23 @@
+casas decimais 
+%.i
+%.f
+limpar buffer
+fflush(stdin);
+
+raiz quadrada 
+#include<math.h>
+sqrt(VALOR);
+
+potencia
+pow(base, expoent);
+
+acento nas palavras
+#include<locale.h>
+
+#include<locale.h>
+setlocale(LC_ALL, "portuguese");
+
+
+para capturar o caracter digitado pelo usuario getche
+variavel= getche
+
